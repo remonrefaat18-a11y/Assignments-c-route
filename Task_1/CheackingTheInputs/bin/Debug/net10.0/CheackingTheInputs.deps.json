@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CheackingTheInputs/1.0.0": {
+        "runtime": {
+          "CheackingTheInputs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheackingTheInputs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
